@@ -1,0 +1,5 @@
+F:\angularjs\ShoppingCart\bin\ShoppingCart.dll
+F:\angularjs\ShoppingCart\bin\ShoppingCart.pdb
+F:\angularjs\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+F:\angularjs\ShoppingCart\obj\Debug\ShoppingCart.dll
+F:\angularjs\ShoppingCart\obj\Debug\ShoppingCart.pdb
